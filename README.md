@@ -4,7 +4,7 @@ Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Sou back-end
 ------------
 
-Gosto de projeto com javascript e python
+Gosto de projeto com javascript ou python
 
 * ✉️  You can contact me at [nicknagildo1305@gmail.com](mailto:nicknagildo1305@gmail.com)
 
